@@ -13,6 +13,11 @@ A.S. Degree, Computer Networking and Information Technology - CCSF 2022
 
 B.A. Degree, Film Production - SFSU 2009
 
+| Education                                                               |
+| :---------------------------------------------------------------------- |
+| A.S. Degree, Computer Networking and Information Technology - CCSF 2022 |
+| B.A. Degree, Film Production - SFSU 2009                                |
+
 | Certificates                        |                             |
 | :---------------------------------- | --------------------------- |
 | Front-End Web Development           | Web Application Programming |
