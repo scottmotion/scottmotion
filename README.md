@@ -8,9 +8,9 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
-## Education:
+<!-- ## Education:
 
-<ul>Education
+<ul>Degrees:
     <li>A.S. Degree, Computer Networking and Information Technology - CCSF 2022</li>
     <li>B.A. Degree, Film Production - SFSU 2009</li>
 </ul>
@@ -32,4 +32,4 @@ JavaScript Specialist
 Advanced Web Development Techniques
 Web Application Programming
 Mobile Web App Development
-Fundamentals of Networking
+Fundamentals of Networking -->
