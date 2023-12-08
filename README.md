@@ -10,14 +10,10 @@ In my free time I enjoy tinkering and building things, as well as producing vide
 
 ## Education:
 
-<ul>
-<li>A.S. Degree, Computer Networking and Information Technology - CCSF 2022</li>
-<li>B.A. Degree, Film Production - SFSU 2009</li>
+<ul>Education
+    <li>A.S. Degree, Computer Networking and Information Technology - CCSF 2022</li>
+    <li>B.A. Degree, Film Production - SFSU 2009</li>
 </ul>
-
-A.S. Degree, Computer Networking and Information Technology - CCSF 2022
-
-B.A. Degree, Film Production - SFSU 2009
 
 | Education                                                               |
 | :---------------------------------------------------------------------- |
