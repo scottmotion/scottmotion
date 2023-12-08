@@ -13,7 +13,7 @@ A.S. Degree, Computer Networking and Information Technology - CCSF 2022
 
 B.A. Degree, Film Production - SFSU 2009
 
-|                        Certificates |                             |
+|                        Certificates |
 | ----------------------------------: | --------------------------- |
 |           Front-End Web Development | Web Application Programming |
 |               JavaScript Specialist | Mobile Web App Development  |
