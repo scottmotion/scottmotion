@@ -1,4 +1,4 @@
-# Hi, I'm Scott, and I love creating useful things!
+# Hi, I'm Scott, and I love creating useful things! 🔮
 
 I'm a Frontend Web Developer specializing in highly functional, pixel-perfect web applications, who is currently looking to join a team as a Junior Developer.
 
