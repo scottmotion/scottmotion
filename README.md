@@ -1,4 +1,4 @@
-## Hi, I'm Scott, and I love creating useful things!
+# Hi, I'm Scott, and I love creating useful things!
 
 I'm a Frontend Web Developer specializing in highly functional, pixel-perfect web applications, who is currently looking to join a team as a Junior Developer.
 
@@ -8,7 +8,12 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
-# Education:
+## Education:
+
+<ul>
+<li>A.S. Degree, Computer Networking and Information Technology - CCSF 2022</li>
+<li>B.A. Degree, Film Production - SFSU 2009</li>
+</ul>
 
 A.S. Degree, Computer Networking and Information Technology - CCSF 2022
 
