@@ -8,12 +8,13 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
-Education:
+# Education:
+
 A.S. Degree, Computer Networking and Information Technology - CCSF 2022
 
 B.A. Degree, Film Production - SFSU 2009
 
-| # Education                                                             |
+| Education                                                               |
 | :---------------------------------------------------------------------- |
 | A.S. Degree, Computer Networking and Information Technology - CCSF 2022 |
 | B.A. Degree, Film Production - SFSU 2009                                |
