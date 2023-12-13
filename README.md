@@ -8,7 +8,7 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
-<div>Test</div>
+<div>![](./screenshot.png)</div>
 
 <!-- ## Education:
 
