@@ -8,7 +8,7 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
-<div><img src="audiophile-ecommerce-thumb.png"><img src="react-kanban-light-thumb.png"></div>
+<div style="display: flex, flex-direction: row"><img src="audiophile-ecommerce-thumb.png"><img src="react-kanban-light-thumb.png"></div>
 
 <!-- ## Education:
 
