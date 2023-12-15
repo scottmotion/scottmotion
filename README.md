@@ -10,8 +10,9 @@ In my free time I enjoy tinkering and building things, as well as producing vide
 
 ## Skills
 
-HTML / CSS / JavaScript / React / TypeScript / Tailwind
-Bootstrap / Firebase / MySQL / WordPress / Adobe CC
+HTML / CSS / JavaScript / React / TypeScript / Tailwind / Bootstrap / Firebase / MySQL / WordPress / Adobe CC
+
+I enjoy staying in practive with web dev fundamentals by hand-coding HTML, CSS, and JS sites. I've also been diving into the React ecosystem, picking up some TypeScript knowledge, and exploring Tailwind. Besides that I have also built several sites with WordPress and am an avid user of Adobe applications like Photoshop and Premiere Pro.
 
 <!-- ## Education:
 
