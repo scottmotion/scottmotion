@@ -8,6 +8,17 @@ Fast-forward to today, and I've completed a breadth of web development courses a
 
 In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
 
+| HTML | CSS |
+JavaScript
+React
+TypeScript
+Tailwind
+Bootstrap
+Firebase
+MySQL
+WordPress
+Adobe CC
+
 <!-- ## Education:
 
 <ul>Degrees:
