@@ -11,7 +11,7 @@ In my free time I enjoy tinkering and building things, as well as producing vide
 ## Skills
 
 <!-- ![Alt text](icons/html5-fill.svg) -->
-<img style="margin: 10px; color: white" src="icons/html5-fill.svg" alt="HTML" height="50" />
+<!-- <img style="margin: 10px; color: white" src="icons/html5-fill.svg" alt="HTML" height="50" /> -->
 
 HTML / CSS / JavaScript / React / TypeScript / Tailwind / Bootstrap / Firebase / MySQL / WordPress / Adobe CC
 
