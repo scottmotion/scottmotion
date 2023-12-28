@@ -6,7 +6,7 @@ My interest in web development started when I decided to make an app for filmmak
 
 Fast-forward to today, and I've completed a breadth of web development courses at <a href="https://www.ccsf.edu/academics/ccsf-catalog/courses-by-department/computer-networking-and-information-technology">CCSF</a>. My main focus these days is building up my experience collaborating with teams.
 
-In my free time I enjoy tinkering and building things, as well as producing videos for YouTube.
+In my free time I enjoy tinkering and building things, and producing videos for YouTube.
 
 ## Skills
 
