@@ -1,6 +1,6 @@
 # Hi, I'm Scott, and I love creating useful things! 🔮
 
-I'm a Frontend Web Developer specializing in highly functional, pixel-perfect web applications, who is currently looking to join a team as a Junior Developer.
+I'm a Frontend Web Developer specializing in highly functional, pixel-perfect web applications. As a creative and analytical thinker able to adapt to changing requirements, I am eager to contribute my newfound technical skills to the success of your development team. Looking to join an organization that values continued learning and long-term growth. 
 
 My interest in web development started when I decided to make an app for filmmakers — turns out I was able to learn web development from scratch and caught the coding bug!
 
